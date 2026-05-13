@@ -31,15 +31,13 @@ Open the `.env` file and replace the placeholder with your actual key:
 GROQ_API_KEY=your-groq-api-key-here
 ```
 
-You can get a free API key at [console.groq.com](https://console.groq.com).
-
 ### 3. Run the app
 
 ```bash
 python app.py
 ```
 
-Then open your browser and go to **http://127.0.0.1:5000**.
+ **http://127.0.0.1:5000**.
 
 ---
 
