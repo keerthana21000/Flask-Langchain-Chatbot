@@ -15,32 +15,6 @@ A conversational AI chatbot built with Flask and LangChain, powered by Groq's ul
 
 ---
 
-## Setup Instructions
-
-### 1. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Add your Groq API key
-
-Open the `.env` file and replace the placeholder with your actual key:
-
-```
-GROQ_API_KEY=your-groq-api-key-here
-```
-
-### 3. Run the app
-
-```bash
-python app.py
-```
-
- **http://127.0.0.1:5000**.
-
----
-
 ## How It Works
 
 ```
