@@ -15,12 +15,6 @@ A conversational AI chatbot built with Flask and LangChain, powered by Groq's ul
 
 ---
 
-## Screenshot
-
-> _Screenshot placeholder — add a screenshot of the chat UI here._
-
----
-
 ## Setup Instructions
 
 ### 1. Clone the repository
